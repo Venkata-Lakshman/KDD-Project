@@ -1,0 +1,37 @@
+2024-08-03 21:59:36,010:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-03 21:59:36,010:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-03 21:59:36,010:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-03 21:59:36,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-03 22:08:41,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-03 22:08:41,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-03 22:08:41,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-03 22:08:41,513:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-08-03 22:10:08,813:INFO:PyCaret ClassificationExperiment
+2024-08-03 22:10:08,813:INFO:Logging name: clf-default-name
+2024-08-03 22:10:08,813:INFO:ML Usecase: MLUsecase.CLASSIFICATION
+2024-08-03 22:10:08,813:INFO:version 3.3.2
+2024-08-03 22:10:08,813:INFO:Initializing setup()
+2024-08-03 22:10:08,814:INFO:self.USI: df9f
+2024-08-03 22:10:08,814:INFO:self._variable_keys: {'idx', '_available_plots', 'fix_imbalance', 'X_train', 'USI', 'html_param', 'pipeline', 'fold_generator', 'exp_name_log', 'y_test', 'log_plots_param', 'is_multiclass', 'seed', 'y_train', 'data', 'gpu_param', 'target_param', 'X_test', 'X', 'fold_shuffle_param', 'gpu_n_jobs_param', 'y', 'fold_groups_param', '_ml_usecase', 'memory', 'n_jobs_param', 'exp_id', 'logging_param'}
+2024-08-03 22:10:08,814:INFO:Checking environment
+2024-08-03 22:10:08,814:INFO:python_version: 3.10.14
+2024-08-03 22:10:08,814:INFO:python_build: ('main', 'May  6 2024 14:42:37')
+2024-08-03 22:10:08,814:INFO:machine: arm64
+2024-08-03 22:10:08,814:INFO:platform: macOS-14.2.1-arm64-arm-64bit
+2024-08-03 22:10:08,814:INFO:Memory: svmem(total=8589934592, available=2344960000, percent=72.7, used=3678699520, free=82624512, active=2313420800, inactive=2258960384, wired=1365278720)
+2024-08-03 22:10:08,814:INFO:Physical Core: 8
+2024-08-03 22:10:08,814:INFO:Logical Core: 8
+2024-08-03 22:10:08,815:INFO:Checking libraries
+2024-08-03 22:10:08,815:INFO:System:
+2024-08-03 22:10:08,815:INFO:    python: 3.10.14 (main, May  6 2024, 14:42:37) [Clang 14.0.6 ]
+2024-08-03 22:10:08,815:INFO:executable: /opt/anaconda3/envs/pycaret-env/bin/python
+2024-08-03 22:10:08,815:INFO:   machine: macOS-14.2.1-arm64-arm-64bit
+2024-08-03 22:10:08,815:INFO:PyCaret required dependencies:
